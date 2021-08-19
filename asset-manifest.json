@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Puppy-love/static/css/main.eef52ea1.chunk.css",
+    "main.js": "/Puppy-love/static/js/main.6cbc26bf.chunk.js",
+    "main.js.map": "/Puppy-love/static/js/main.6cbc26bf.chunk.js.map",
+    "runtime-main.js": "/Puppy-love/static/js/runtime-main.be886e3a.js",
+    "runtime-main.js.map": "/Puppy-love/static/js/runtime-main.be886e3a.js.map",
+    "static/js/2.14c9c4fd.chunk.js": "/Puppy-love/static/js/2.14c9c4fd.chunk.js",
+    "static/js/2.14c9c4fd.chunk.js.map": "/Puppy-love/static/js/2.14c9c4fd.chunk.js.map",
+    "index.html": "/Puppy-love/index.html",
+    "static/css/main.eef52ea1.chunk.css.map": "/Puppy-love/static/css/main.eef52ea1.chunk.css.map",
+    "static/js/2.14c9c4fd.chunk.js.LICENSE.txt": "/Puppy-love/static/js/2.14c9c4fd.chunk.js.LICENSE.txt",
+    "static/media/background.d4e82ddd.png": "/Puppy-love/static/media/background.d4e82ddd.png",
+    "static/media/cover.383aa09a.jpeg": "/Puppy-love/static/media/cover.383aa09a.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.be886e3a.js",
+    "static/js/2.14c9c4fd.chunk.js",
+    "static/css/main.eef52ea1.chunk.css",
+    "static/js/main.6cbc26bf.chunk.js"
+  ]
+}
