@@ -14,7 +14,7 @@ const Login = () => {
     >
       <div className="set">
         <div id="title">Puppy love</div>
-        <form className="ui container form ui grid" method="post" action="/loggedin">
+        <form className="ui container form ui grid" action="/loggedin">
           <label htmlFor="name">Name</label>
           <input
             type="text"
@@ -40,12 +40,6 @@ const Login = () => {
             Submit
           </button>
         </form>
-          <div className="sign">Already a user?</div>
-          <div className="sign">
-            <button className="ui button" id="signin">
-              Sign In
-            </button>
-          </div>
       </div>
     </div>
   );
